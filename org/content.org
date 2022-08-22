@@ -1,0 +1,9 @@
+#+title: Adventures in Brewing
+
+#+author: BlockerBrews
+#+hugo_base_dir: ../
+#+HUGO_SECTION: ./
+#+hugo_auto_set_lastmod: t
+#+seq_todo: TODO DRAFT DONE
+#+startup: showeverything
+#+STARTUP: logdone
