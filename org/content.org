@@ -5,19 +5,13 @@
 #+seq_todo: TODO DRAFT DONE
 #+startup: showeverything
 #+STARTUP: logdone
-* Homepage
-:PROPERTIES:
-:EXPORT_HUGO_SECTION:
-:EXPORT_FILE_NAME: home
-:END:
-Test homepage
 * Articles
 :PROPERTIES:
-:EXPORT_HUGO_SECTION: docs
+:EXPORT_HUGO_SECTION: post
 :END:
 ** Articles Homepage
 :PROPERTIES:
-:EXPORT_HUGO_MENU: :menu "main"
+:EXPORT_HUGO_MENU: :menu "post"
 # :EXPORT_FILE_NAME: _index
 :END:
 Test
