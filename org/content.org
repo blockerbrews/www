@@ -12,6 +12,7 @@
 ** Test Article
 :PROPERTIES:
 :EXPORT_FILE_NAME: Test-Article-Name
+:EXPORT_DATE: [2022-10-10 Mon]
 :END:
 Testing an article
 ** Test w/ dates
