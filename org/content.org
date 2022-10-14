@@ -9,14 +9,21 @@
 :PROPERTIES:
 :EXPORT_HUGO_SECTION: post
 :END:
-** Articles Homepage
-:PROPERTIES:
-:EXPORT_HUGO_MENU: :menu "post"
-# :EXPORT_FILE_NAME: _index
-:END:
-Test
 ** Test Article
 :PROPERTIES:
 :EXPORT_FILE_NAME: Test-Article-Name
 :END:
 Testing an article
+** Test w/ dates
+:PROPERTIES:
+:EXPORT_FILE_NAME: Test-with-dates
+:EXPORT_DATE: [2022-10-14 Fri]
+:END:
+Test with dates.
+Test update change.
+** DONE Test with todo
+CLOSED: [2022-10-15 Sat 08:32]
+:PROPERTIES:
+:EXPORT_FILE_NAME: Test wtih todos
+:END:
+Test with TODOs
