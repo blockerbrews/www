@@ -5,7 +5,7 @@
 
 baseURL = "https://www.blockerbrews.com" # website root path
 disqusShortname = ""                     # disqus shortcode
-enableGitInfo = true                    # retrieve last modified date from git commits
+enableGitInfo = true                     # retrieve last modified date from git commits
 enableRobotsTXT = true                   # /robots.txt
 googleAnalytics = ""                     # google analytics id
 hasCJKLanguage = true                    # Chinese/Japanese/Korean
