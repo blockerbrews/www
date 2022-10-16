@@ -36,3 +36,16 @@ CLOSED: [2022-10-16 Sun 23:01]
 :END:
 *** Test Push
 testing Push to github
+** TODO Test push with images
+:PROPERTIES:
+:EXPORT_FILE_NAME: Test push with images
+:END:
+*** Test push
+Again testing how to push to github
+*** Test images :ATTACH:
+:PROPERTIES:
+:ID:       6c98dc68-16e7-4bcc-b29f-e23d14e5ce5b
+:END:
+Testing with images.
+
+[[attachment:glycol-chart.gif]]
