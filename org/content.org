@@ -29,3 +29,10 @@ CLOSED: [2022-10-15 Sat 08:32]
 :EXPORT_FILE_NAME: Test wtih todos
 :END:
 Test with TODOs
+** DONE Test Push
+CLOSED: [2022-10-16 Sun 23:01]
+:PROPERTIES:
+:EXPORT_FILE_NAME: Test Push
+:END:
+*** Test Push
+testing Push to github
