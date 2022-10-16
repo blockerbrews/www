@@ -36,7 +36,8 @@ CLOSED: [2022-10-16 Sun 23:01]
 :END:
 *** Test Push
 testing Push to github
-** TODO Test push with images
+** DONE Test push with images
+CLOSED: [2022-10-16 Sun 23:14]
 :PROPERTIES:
 :EXPORT_FILE_NAME: Test push with images
 :END:
