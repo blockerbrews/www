@@ -1,8 +1,9 @@
 +++
 title = "Test push with images"
 author = ["BlockerBrews"]
-lastmod = 2022-10-16T23:11:15+09:00
-draft = true
+date = 2022-10-16T23:14:00+09:00
+lastmod = 2022-10-16T23:14:43+09:00
+draft = false
 +++
 
 ## Test push {#test-push}
