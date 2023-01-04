@@ -50,3 +50,9 @@ Again testing how to push to github
 Testing with images.
 
 [[attachment:glycol-chart.gif]]
+** TODO Been Awhile
+:PROPERTIES:
+:EXPORT_FILE_NAME: Been Awhile
+:END:
+*** Testing my memory
+Trying to see if I remember how to do this.
