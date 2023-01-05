@@ -55,7 +55,7 @@ tags = "tags"
 ########################
 
 [params]
-description = "an example site for hugo theme TeXify" # website description
+description = "Another beer brewing related website" # website description
 favicon = "favicon.ico" # path to website icon, relative to ./static
 footnote = """
 Follow me on <a class=link href=https://github.com/blockerbrews/>GitHub</a>,
