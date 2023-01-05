@@ -5,6 +5,11 @@
 #+seq_todo: TODO DRAFT DONE
 #+startup: showeverything
 #+STARTUP: logdone
+* About
+:PROPERTIES:
+:EXPORT_HUGO_SECTION: about
+:END:
+
 * Articles
 :PROPERTIES:
 :EXPORT_HUGO_SECTION: post
