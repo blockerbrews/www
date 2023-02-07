@@ -1,6 +1,7 @@
 # baseURL = "https://www.blockerbrews.com"
 languageCode = "en"
 defaultContentLanguage = "en"
+Theme = "lynx"
 
 title = "BlockerBrews"
 # copyright = "Copy, _right?_ :thinking_face:"
